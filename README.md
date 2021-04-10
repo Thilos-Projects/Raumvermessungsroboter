@@ -6,6 +6,8 @@ Nach Möglichkeit sollen nicht statische Hindernisse erkannt und in der Ansicht 
 Im Weiteren soll der Roboter keine äußeren Stationen oder Rechenkapazitäten benötigen. Eine Fernsteuerung für manuelle Operationen soll über ein web interface ermöglicht werden.
 Die Entfernungsmessung soll OnBoard über ein Eigenbau LiDAR System geschehen.
  
+ ![Webseiten Bild](https://github.com/Thilos-Projects/Raumvermessungsroboter/blob/e12618839f91f436c202b1045da6ab0bbf9d65b3/Webseiten%20grob%20plan.png?raw=true)
+ 
 Optionale Erweiterungen:
 -Der Roboter soll es ermöglichen ihn an einen punkt in dem gescannten Bereich zu schicken.
 -Die daten der Raumvermessung sollen für einen externen Computer über eine schnittstalle in Echtzeit lesbar sein.

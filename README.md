@@ -1,3 +1,5 @@
+Das Projekt findet in Coop mit [Tom Seiffert](https://github.com/Tomsei "Tom Seiffert") statt.
+
 # Raumvermessungsroboter
 Ziel:
 Ein möglichst einfacher und kleiner Roboter der autonom einen flachen Raum von ca. 20x20m abfahren kann und den abgefahrenen Bereich auf einer einfachen Website darstellt.
@@ -13,5 +15,3 @@ Optionale Erweiterungen:
 -Die daten der Raumvermessung sollen für einen externen Computer über eine schnittstalle in Echtzeit lesbar sein.
 -Der Roboter priorisiert in der Raumvermessung Bereiche nah einem gegebenen Punkt über Bereiche, die weiter von diesem entfernt sind.
 -Die Webseite zeigt geplante Bewegungen grafisch an.
-
-Das Projekt findet in Coop mit [Tom Seiffert](https://github.com/Tomsei "Tom Seiffert") statt.

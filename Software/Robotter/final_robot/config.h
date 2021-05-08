@@ -1,0 +1,1 @@
+/* Alle Globalen Konfiguration */
